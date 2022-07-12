@@ -1,0 +1,5 @@
+package com.matheusbandeira.producerorders.model;
+
+public class Order {
+
+}

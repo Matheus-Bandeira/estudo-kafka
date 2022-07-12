@@ -1,0 +1,5 @@
+package com.matheusbandeira.producerorders.controller;
+
+public class HelloMessage {
+
+}
